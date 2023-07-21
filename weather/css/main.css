@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.weather{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/13/338/desktop-wallpaper-ultra-nature-on-dog-best-laptop.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size:cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size:xx-large;
+    text-align: center;
+    
+    
+}
+    
+    
+    
+nav{
+    font-size: xx-large;
+}
